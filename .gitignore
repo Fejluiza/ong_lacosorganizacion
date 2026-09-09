@@ -1,0 +1,20 @@
+# Dependências
+node_modules/
+package-lock.json
+yarn.lock
+
+# Arquivos do sistema
+.DS_Store
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+dist/
+build/
